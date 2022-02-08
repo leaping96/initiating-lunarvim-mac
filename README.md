@@ -2,4 +2,4 @@
 
 sudo sh install.sh
 
-if any question, just press enter
+if you see any question, just press enter
